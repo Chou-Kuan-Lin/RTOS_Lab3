@@ -1,0 +1,8794 @@
+1	Completed 0 11
+1	Completed 11 12
+3	Preempted 12 0
+3	Completed 0 12
+203	Preempted 12 0
+203	Completed 0 1
+204	Completed 1 2
+206	Preempted 2 1
+207	Completed 1 2
+208	Completed 2 12
+209	Preempted 12 1
+210	Completed 1 2
+212	Preempted 2 1
+213	Completed 1 2
+214	Completed 2 12
+215	Preempted 12 1
+216	Completed 1 2
+218	Preempted 2 1
+219	Completed 1 2
+220	Completed 2 12
+221	Preempted 12 1
+222	Completed 1 2
+224	Preempted 2 1
+225	Completed 1 2
+226	Completed 2 12
+227	Preempted 12 1
+228	Completed 1 2
+230	Preempted 2 1
+23232	Preempted 1 2
+233	Preempted 2 1
+1	Completed 1 2
+233	Completed 1 2
+233	Completed 2 12
+234	Preempted 12 2
+236	Preempted 2 1
+237	Completed 1 2
+238	Completed 2 12
+239	Preempted 12 1
+240	Completed 1 2
+242	Preempted 2 1
+243	Completed 1 2
+244	Completed 2 12
+245	Preempted 12 1
+246	Completed 1 2
+248	Preempted 2 1
+249	Completed 1 2
+250	Completed 2 12
+251	Preempted 12 1
+252	Completed 1 2
+254	Preempted 2 1
+255	Completed 1 2
+256	Completed 2 12
+257	Preempted 12 1
+258	Completed 1 2
+260	Preempted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
+ted 2 1
+261	Completed 1 2
